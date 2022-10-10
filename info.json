@@ -1,0 +1,22 @@
+{
+  "name": "Caprice Genninger",
+  "website": "https://capriceloren.github.io/",
+  "linkedin": "https://www.linkedin.com/in/caprice-g-4b95a81b9/",
+  "github": "https://github.com/CapriceLoren",
+  "email": "capriceloren@gmail.com",
+  "resume": "https://docs.google.com/document/d/1YSfSck5RR15LnPcx0XDok8mHbRTC47SHdM1KwrzIWMw/edit",
+  "proficientTechnologies": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Node",
+      "JSON",
+      "API",
+      "LIMS"
+  ],
+  "otherSkills": [
+      "Project Management",
+      "Wet Chemistry",
+      "Hiking"
+  ]
+}
